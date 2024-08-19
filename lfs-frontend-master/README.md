@@ -1,6 +1,7 @@
 ##### BEFORE STARTING.. CREATE A LOCAL VARIABLE IN THE TERMINAL USING THIS COMMAND
 
-export NODE_OPTIONS=--openssl-legacy-provider
+export NODE_OPTIONS=--openssl-legacy-provider   (for mac book)
+$env:NODE_OPTIONS="--openssl-legacy-provider"   (for Windows)
 
 # Project Inspiration
 
