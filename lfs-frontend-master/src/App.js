@@ -53,7 +53,7 @@ function App()
 
           <Route path='/:item'  component={ItemPage} exact />
         </ToastProvider>
-        {/* <Route path='*' component={NotFound}/> */}
+        <Route path='*' component={"NotFound"}/>
       </Switch>
     </Router>
     {/* <Signup/> */}

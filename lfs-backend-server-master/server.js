@@ -26,7 +26,7 @@ app.use(passport.initialize())
 app.use(passport.session())
 
 // mongoose.connect(`mongodb+srv://${username}:${password}@cluster0.48bosfo.mongodb.net/`,{
-mongoose.connect(`mongodb://localhost:27017/`, {
+mongoose.connect(`mongodb+srv://pirateking1803:Harry9021@cluster0.m7aloax.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useFindAndModify: false,
