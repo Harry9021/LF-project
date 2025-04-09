@@ -129,9 +129,3 @@ Got ideas? Found a bug? Contributions are welcome!
 ## 💡 Author
 
 Made with ❤️ by [@Team F94[PICT]](https://github.com/Harry9021)
-
-```
-
----
-
-Let me know if you want me to generate a Markdown file or auto-push it to the repo!
