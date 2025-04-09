@@ -67,7 +67,7 @@ cd LF-project
 cd lfs-backend-server-master
 npm install
 cp .env.example .env
-# ➕ Fill in: JWT_SECRET, MONGODB_URI, AWS & MAILGUN Credentials
+add your JWT_SECRET, MONGODB_URI, AWS & MAILGUN Credentials
 npm start
 ```
 
