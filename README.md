@@ -17,7 +17,7 @@ Welcome to the **LF Project** – a full-fledged, dynamic **social media platfor
 - 🧠 Node.js + Express  
 - 🗄️ MongoDB with Mongoose  
 - 🛡️ Passport.js + JWT Auth  
-- ☁️ AWS S3 (via multer-s3)  
+- ☁️ Cloudinery (via multer-s3)  
 - 📬 Mailgun for Email Service  
 - 🍪 cookie-session + CORS  
 
@@ -27,7 +27,7 @@ Welcome to the **LF Project** – a full-fledged, dynamic **social media platfor
 
 - 🔐 **Secure JWT Authentication** (Login & Registration)  
 - 🗃️ **Category Management API**  
-- 📸 **Image Upload to AWS S3**  
+- 📸 **Image Upload to Cloudinery**  
 - 🌐 **Fully Responsive UI**  
 - 🧼 **Clean Code & Organized Structure**  
 - 🛎️ **Toast Notifications** for Real-time Feedback  
@@ -106,9 +106,9 @@ npm test
 |----------|-------------|
 | `JWT_SECRET` | Secret for JWT |
 | `MONGODB_URI` | MongoDB connection string |
-| `AWS_ACCESS_KEY_ID` | AWS S3 Access Key |
-| `AWS_SECRET_ACCESS_KEY` | AWS S3 Secret Key |
-| `S3_BUCKET_NAME` | AWS S3 Bucket |
+| `Cloudinery_ACCESS_KEY_ID` | Cloudinery Access Key |
+| `Cloudinery_ACCESS_KEY` | Cloudinery3 Secret Key |
+| `Cloudinery_BUCKET_NAME` | Cloudinery Bucket |
 | `MAILGUN_API_KEY` | Mailgun API key |
 | `MAILGUN_DOMAIN` | Mailgun Domain |
 
